@@ -1,0 +1,6 @@
+1 CSE
+2 IT
+3 ECE
+4 MAE
+5 AI & DS
+6 General
